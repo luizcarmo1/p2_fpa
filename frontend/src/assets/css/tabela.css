@@ -1,0 +1,30 @@
+.tabela-pedido {
+    width: 100%;
+    font-size: 1.2em; 
+}
+
+.container-fluid {
+    border-radius: 4px;
+    padding: 6rem;
+    height: 100%;
+}
+
+.pesquisa {
+    width:320px;
+  }
+
+
+/* TABELA */
+th {
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  td {
+    vertical-align: middle;
+  }
+  
+  /* Estilo dos botões de ação */
+  .btn i {
+    margin-right: 5px;
+  }
